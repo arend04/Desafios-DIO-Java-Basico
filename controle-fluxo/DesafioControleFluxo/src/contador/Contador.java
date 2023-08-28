@@ -1,10 +1,10 @@
 package contador;
 
 import java.util.Scanner;
-
 import parameters.ParametrosInvalidosException;
 
 public class Contador {
+
 
 	public static void main(String[] args) {
 
